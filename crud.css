@@ -1,0 +1,24 @@
+.custom-border
+{
+    border-bottom: 2px dashed blue;
+    margin-bottom: 10px;
+}
+.heading
+{
+    font-size: 3rem;
+    font-weight: bold;
+    background-color: #FFD662FF;
+}
+#id
+{
+    color: rgb(228, 173, 20);
+    
+}
+#title
+{
+    font-size: 20px;
+}
+#body
+{
+    font-size: 17px;
+}
